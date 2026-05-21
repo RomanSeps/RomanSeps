@@ -15,4 +15,4 @@ A 20 year old uni student, mainly focused on front-end development, but also int
 </p>
 
 ### Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanseps&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSeps)
