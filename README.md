@@ -13,6 +13,3 @@ A 20 year old uni student, mainly focused on front-end development, but also int
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js,py,php,bash,godot,eclipse,vscode,linux,ubuntu,windows,mysql,powershell" />
 </p>
-
-### Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSeps)
