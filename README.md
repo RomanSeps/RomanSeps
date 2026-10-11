@@ -1,6 +1,6 @@
 ## Hey! I'm Roman! 👋
-A 20 year old uni student, mainly focused on front-end development, but also interested in cybersecurity. 
-  - 💻 Currently studying I.T. 
+A 20 year old student, studying Artificial Intelligence at the Technical University of Liberec. I also focus on web developement, and learn cybersecurity on the side. 
+  - 💻 Currently studying I.T. (Technical University of Liberec (TUL))
   - 🧩 4+ year experience (if you count school 😂)
   - 📜 Cisco certified 
 
