@@ -16,6 +16,8 @@ A 20 year old uni student, mainly focused on front-end development, but also int
 
 ![Codewars](https://github.r2v.ch/codewars?user=RomanSeps&theme=gradient_midnight_puple)
 
+## Certificates
+Link to my [Credly profile.](https://www.credly.com/users/roman-seps)
 ![CCNA intro](ccna-introduction-to-networks.png)
 ![CCNA switching and routing](ccna-switching-routing-and-wireless-essentials.1.png)
 ![Intro to cybersecurity](introduction-to-cybersecurity.png)
