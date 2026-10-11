@@ -5,13 +5,14 @@ A 20 year old student, studying Artificial Intelligence at the Technical Univers
   - 📜 Cisco certified 
 
 ## Experience
-- single-handedly ran a course on AI with a custom website 🤖
+- Single-handedly ran a course on AI with a custom website 🤖
 - Worked on a website for a small business 🏪
-- Developed a super simple (unfinished) indie game for a school project 👾
+- Developed a personal portfolio website 🖥️
+- Developed a simple (unfinished) indie game for a school project 👾
 
 ## My skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,py,php,bash,godot,eclipse,vscode,linux,ubuntu,windows,mysql,powershell" />
+  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,py,bash,godot,eclipse,vscode,linux,ubuntu,windows,mysql,powershell" />
 </p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=RomanSeps&theme=gradient_midnight_puple)
